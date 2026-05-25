@@ -20,4 +20,8 @@ This Repo contains explaination and solutions to various dsa and competitive cod
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourjyabose/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Math
+|  |
+| ------- |
+| [0009-palindrome-number](https://github.com/sourjyabose/dsa/tree/master/0009-palindrome-number) |
 <!---LeetCode Topics End-->
