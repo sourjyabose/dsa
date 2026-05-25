@@ -6,6 +6,7 @@ This Repo contains explaination and solutions to various dsa and competitive cod
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sourjyabose/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sourjyabose/dsa/tree/master/0053-maximum-subarray) |
 ## Divide and Conquer
 |  |
@@ -15,4 +16,8 @@ This Repo contains explaination and solutions to various dsa and competitive cod
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sourjyabose/dsa/tree/master/0053-maximum-subarray) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/sourjyabose/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
