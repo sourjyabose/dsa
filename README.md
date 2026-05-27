@@ -8,6 +8,7 @@ This Repo contains explaination and solutions to various dsa and competitive cod
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourjyabose/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sourjyabose/dsa/tree/master/0053-maximum-subarray) |
+| [0073-set-matrix-zeroes](https://github.com/sourjyabose/dsa/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -29,8 +30,13 @@ This Repo contains explaination and solutions to various dsa and competitive cod
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sourjyabose/dsa/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/sourjyabose/dsa/tree/master/0073-set-matrix-zeroes) |
 ## String
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/sourjyabose/dsa/tree/master/0013-roman-to-integer) |
+## Matrix
+|  |
+| ------- |
+| [0073-set-matrix-zeroes](https://github.com/sourjyabose/dsa/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
