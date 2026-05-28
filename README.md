@@ -6,12 +6,14 @@ This Repo contains explaination and solutions to various dsa and competitive cod
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sourjyabose/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/sourjyabose/dsa/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0053-maximum-subarray](https://github.com/sourjyabose/dsa/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/sourjyabose/dsa/tree/master/0073-set-matrix-zeroes) |
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sourjyabose/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/sourjyabose/dsa/tree/master/0053-maximum-subarray) |
 ## Dynamic Programming
 |  |
@@ -39,4 +41,8 @@ This Repo contains explaination and solutions to various dsa and competitive cod
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/sourjyabose/dsa/tree/master/0073-set-matrix-zeroes) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sourjyabose/dsa/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
